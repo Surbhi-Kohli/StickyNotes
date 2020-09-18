@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5baaa00050d96f52e94c828915bd8a4",
+    "revision": "7fe8b70ad16469371c0ca9b11ac0dc1b",
     "url": "/StickyNotes/index.html"
   },
   {
-    "revision": "fa326e335dae6c352f82",
-    "url": "/StickyNotes/static/css/main.28fac7ad.chunk.css"
+    "revision": "86f0d7ff73136b110688",
+    "url": "/StickyNotes/static/css/main.85dcaaf3.chunk.css"
   },
   {
     "revision": "36cc95196b98e4f07599",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StickyNotes/static/js/2.71576044.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa326e335dae6c352f82",
+    "revision": "86f0d7ff73136b110688",
     "url": "/StickyNotes/static/js/main.334e4553.chunk.js"
   },
   {
