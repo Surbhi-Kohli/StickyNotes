@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import del from "./assets/images/thrash.png";
 import "./App.css";
 
+
 class App extends Component {
   constructor(props) {
     super(props);
