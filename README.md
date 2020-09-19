@@ -1,4 +1,12 @@
+This application is published at  https://surbhi-kohli.github.io/StickyNotes/
+
+
+![stickyNotesImage](./NotesSnip.PNG)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
