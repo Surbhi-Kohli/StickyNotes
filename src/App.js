@@ -72,7 +72,8 @@ class App extends Component {
     // create a new item with unique id
     const newItem = {
       id: 1 + Math.random(),
-      value: this.state.newItem.slice()
+      value: this.state.newItem.slice(),
+      date: new Date().toLocaleString()
     };
     //  console.log("new Item after slice-> " + this.state.newItem.slice());
     // copy current list of items
@@ -153,8 +154,8 @@ class App extends Component {
               {this.state.list.map(item => {
                 return (
                   <li key={item.id}>
-                    <input
-                      type="text"
+                    <p>{item.date}</p>
+                    <textarea
                       className="text"
                       value={item.value}
                       onChange={e => this.itemUpdate(e.target.value, item.id)}
